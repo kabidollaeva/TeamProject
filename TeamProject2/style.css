@@ -328,7 +328,6 @@ padding: 10px;
 }
 /* end of footer */
 
-/** {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
@@ -390,7 +389,9 @@ padding: 10px;
   position: absolute;
   top: 0;
 }
-
+.topic{
+	padding-left: 30px;
+}
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
@@ -424,3 +425,4 @@ padding: 10px;
   from {opacity: .4} 
   to {opacity: 1}
 }
+

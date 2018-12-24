@@ -1,7 +1,7 @@
 
 <html>
     <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
     <title>Food Network</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
     </head>
@@ -14,9 +14,9 @@
         
         <div id="site_menu">
             <ul>
-              <li class="current"><a href="index.html"><b>Home</b></a></li>
-                <li><a href="index2.php"><b>Food Menus</b></a></li>
-                <li ><a href="index1.html"><b>Contact us</b></a></li>
+        	<li class="current"><a href="index.php"><b>Home</b></a></li>
+          	<li class="current"><a href="index2.php"><b>Food Menus</b></a></li>
+            <li class="current"><a href="index1.php"><b>Contact us</b></a></li>
             </ul>
         </div> <!-- end of menu -->
         
@@ -43,7 +43,7 @@
               <img src="images/depositphotos_165081612-stock-illustration-speaking-girl-with-black-hair.jpg" height="100" width="100"class="image" "/>
               <div class="main_body">
                 <div class="title">
-                  <a href="#">Tabusova Akku</a>
+                  <a href="#">Kabidollaeva Marzhan</a>
                 </div>
             
                 <div class="description">
@@ -51,8 +51,8 @@
                 </div>
   
                 <ul>
-                    <li>8-777-777-77-77</li>
-                    <li>tabusova@gmail.com</li>
+                    <li>8-777-777-77-78</li>
+                    <li>kabidolaeva@gmail.com</li>
                 </ul>
                 
               </div>
@@ -62,7 +62,7 @@
                 <img src="images/depositphotos_165081612-stock-illustration-speaking-girl-with-black-hair.jpg" height="100" width="100"class="image" "/>
                 <div class="main_body">
                   <div class="title">
-                    <a href="#">Tabusova Akku</a>
+                    <a href="#">Bekenova Zhuldyz</a>
                   </div>
               
                   <div class="description">
@@ -70,8 +70,8 @@
                   </div>
     
                   <ul>
-                      <li>8-777-777-77-77</li>
-                      <li>tabusova@gmail.com</li>
+                      <li>8-777-777-77-88</li>
+                      <li>bzhe25032000@gmail.com</li>
                   </ul>
                   
                 </div>
@@ -82,7 +82,7 @@
     
     <div id="site_footer">
         
-          <a href="#">Home</a> | <a href="#">Contact Us</a><br />
+    <a href="index.php">Home</a> | <a href="index1.php">Contact Us</a> | <a href="#">For Staff</a><br />
            
     </div>
     </body>
